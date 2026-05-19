@@ -6,7 +6,7 @@ class Team:
     self.players_list = []
   
   def __str__(self):
-    return f"{self.name} | {self.calculate_overall()} OVR | {len(self.players_list)} players"
+    return f"{self.name} | {self.calculate_overall():.1f} OVR | {len(self.players_list)} players"
     
   def add_player(self, player):
     if player not in self.players_list:
