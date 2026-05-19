@@ -9,7 +9,7 @@ class Team:
     return f"{self.name} | {self.calculate_overall()} OVR | {len(self.players_list)} players"
     
   def add_player(self, player):
-    if not  player in self.players_list:
+    if player not in self.players_list:
       self.players_list.append(player)
     else:
       return False
