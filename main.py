@@ -71,5 +71,6 @@ champions.add_team(real_madrid)
 champions.add_team(man_city)
 champions.add_team(liverpool)
 champions.add_team(arsenal)
-champions.show_teams()
+
 champions.simulate_round()
+champions.show_standings()
