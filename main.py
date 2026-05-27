@@ -2,75 +2,100 @@ from models.player import Player
 from models.team import Team
 from models.league import League
 
-# ARSENAL
-arsenal = Team("Arsenal")
-
-arsenal.add_player(Player("David Raya", 29, 84))
-arsenal.add_player(Player("Ben White", 27, 84))
-arsenal.add_player(Player("William Saliba", 24, 89))
-arsenal.add_player(Player("Gabriel Magalhães", 27, 87))
-arsenal.add_player(Player("Oleksandr Zinchenko", 28, 82))
-arsenal.add_player(Player("Declan Rice", 26, 90))
-arsenal.add_player(Player("Martin Ødegaard", 26, 89))
-arsenal.add_player(Player("Kai Havertz", 25, 84))
-arsenal.add_player(Player("Bukayo Saka", 23, 91))
-arsenal.add_player(Player("Gabriel Martinelli", 23, 85))
-arsenal.add_player(Player("Leandro Trossard", 30, 83))
-
-
-
-# MANCHESTER CITY
-man_city = Team("Manchester City")
-
-man_city.add_player(Player("Ederson", 31, 88))
-man_city.add_player(Player("Kyle Walker", 34, 84))
-man_city.add_player(Player("Ruben Dias", 27, 89))
-man_city.add_player(Player("John Stones", 30, 87))
-man_city.add_player(Player("Josko Gvardiol", 23, 88))
-man_city.add_player(Player("Rodri", 28, 92))
-man_city.add_player(Player("Kevin De Bruyne", 33, 91))
-man_city.add_player(Player("Bernardo Silva", 30, 89))
-man_city.add_player(Player("Phil Foden", 24, 91))
-man_city.add_player(Player("Jeremy Doku", 22, 85))
-man_city.add_player(Player("Erling Haaland", 24, 93))
-
-
-# LIVERPOOL
-liverpool = Team("Liverpool")
-
-liverpool.add_player(Player("Alisson", 32, 89))
-liverpool.add_player(Player("Trent Alexander-Arnold", 26, 87))
-liverpool.add_player(Player("Virgil van Dijk", 33, 90))
-liverpool.add_player(Player("Ibrahima Konaté", 25, 85))
-liverpool.add_player(Player("Andrew Robertson", 31, 84))
-liverpool.add_player(Player("Alexis Mac Allister", 26, 86))
-liverpool.add_player(Player("Dominik Szoboszlai", 24, 85))
-liverpool.add_player(Player("Curtis Jones", 24, 82))
-liverpool.add_player(Player("Mohamed Salah", 32, 91))
-liverpool.add_player(Player("Luis Díaz", 28, 86))
-liverpool.add_player(Player("Darwin Núñez", 25, 84))
-
 
 # REAL MADRID
 real_madrid = Team("Real Madrid")
 
-real_madrid.add_player(Player("Thibaut Courtois", 33, 90))
-real_madrid.add_player(Player("Dani Carvajal", 33, 84))
-real_madrid.add_player(Player("Antonio Rüdiger", 32, 88))
-real_madrid.add_player(Player("Éder Militão", 27, 86))
-real_madrid.add_player(Player("Ferland Mendy", 29, 83))
-real_madrid.add_player(Player("Federico Valverde", 26, 89))
-real_madrid.add_player(Player("Aurélien Tchouaméni", 25, 86))
-real_madrid.add_player(Player("Jude Bellingham", 21, 91))
-real_madrid.add_player(Player("Vinícius Jr.", 24, 92))
+real_madrid.add_player(Player("Courtois", 33, 90))
+real_madrid.add_player(Player("Carvajal", 33, 84))
+real_madrid.add_player(Player("Rüdiger", 32, 88))
+real_madrid.add_player(Player("Militao", 27, 86))
+real_madrid.add_player(Player("Mendy", 29, 83))
+real_madrid.add_player(Player("Valverde", 26, 89))
+real_madrid.add_player(Player("Tchouameni", 25, 86))
+real_madrid.add_player(Player("Bellingham", 21, 91))
+real_madrid.add_player(Player("Vinicius Jr", 24, 92))
 real_madrid.add_player(Player("Rodrygo", 24, 87))
-real_madrid.add_player(Player("Kylian Mbappé", 26, 94))
+real_madrid.add_player(Player("Mbappe", 26, 94))
 
-champions = League("Champions League")
+
+# DORTMUND
+dortmund = Team("Borussia Dortmund")
+
+dortmund.add_player(Player("Kobel", 27, 86))
+dortmund.add_player(Player("Ryerson", 27, 79))
+dortmund.add_player(Player("Schlotterbeck", 25, 84))
+dortmund.add_player(Player("Sule", 29, 81))
+dortmund.add_player(Player("Bensebaini", 30, 79))
+dortmund.add_player(Player("Can", 31, 80))
+dortmund.add_player(Player("Sabitzer", 31, 83))
+dortmund.add_player(Player("Brandt", 29, 85))
+dortmund.add_player(Player("Adeyemi", 23, 82))
+dortmund.add_player(Player("Malen", 26, 83))
+dortmund.add_player(Player("Guirassy", 29, 86))
+
+
+# CELTIC
+celtic = Team("Celtic")
+
+celtic.add_player(Player("Joe Hart", 38, 77))
+celtic.add_player(Player("Johnston", 26, 75))
+celtic.add_player(Player("Carter-Vickers", 27, 78))
+celtic.add_player(Player("Scales", 26, 73))
+celtic.add_player(Player("Taylor", 27, 74))
+celtic.add_player(Player("McGregor", 32, 80))
+celtic.add_player(Player("Hatate", 27, 77))
+celtic.add_player(Player("O'Riley", 24, 81))
+celtic.add_player(Player("Maeda", 27, 78))
+celtic.add_player(Player("Kyogo", 30, 80))
+celtic.add_player(Player("Palma", 25, 76))
+
+
+# SHERIFF
+sheriff = Team("Sheriff Tiraspol")
+
+sheriff.add_player(Player("Koval", 32, 68))
+sheriff.add_player(Player("Zohouri", 24, 66))
+sheriff.add_player(Player("Garananga", 24, 67))
+sheriff.add_player(Player("Tovar", 23, 65))
+sheriff.add_player(Player("Artunduaga", 30, 66))
+sheriff.add_player(Player("Badolo", 25, 69))
+sheriff.add_player(Player("Talal", 27, 68))
+sheriff.add_player(Player("Joao Paulo", 27, 67))
+sheriff.add_player(Player("Luvannor", 35, 70))
+sheriff.add_player(Player("Ankeye", 22, 71))
+sheriff.add_player(Player("Ngom Mbekeli", 26, 68))
+
+
+# LEAGUE
+champions = League("UEFA Champions League")
+
 champions.add_team(real_madrid)
-champions.add_team(man_city)
-champions.add_team(liverpool)
-champions.add_team(arsenal)
+champions.add_team(dortmund)
+champions.add_team(celtic)
+champions.add_team(sheriff)
 
-champions.simulate_round()
-champions.show_standings()
+
+# TEAM PREVIEW
+print(real_madrid)
+print(dortmund)
+print(celtic)
+print(sheriff)
+
+print("\n")
+
+
+# GENERATE FIXTURE
+champions.generate_fixture("2round_league")
+
+
+# SIMULATE ALL MATCHDAYS
+for i in range(len(champions.fixtures)):
+
+    champions.simulate_round()
+
+    print("\nTABLA:\n")
+
+    champions.show_standings()
+
+    print("\n============================\n")

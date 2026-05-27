@@ -17,25 +17,39 @@ class Match:
 
 
     #Simulating attacks and goals
-    home_attacks = int((home_ovr/10) + randint(-3,5))
+    home_attacks = int((home_ovr/15) + randint(-1,2))
 
     if home_attacks < 1:
       home_attacks = 1
 
     for attack in range(home_attacks):
-      chance = home_ovr/6
+      chance = 20 + ((home_ovr-away_ovr)*2)
+      
+      if chance < 5:
+        chance = 5
+      if chance > 85:
+        chance = 85
+
       roll = randint(1,100)
+
       if roll <=chance:
         self.home_goals +=1
 
-    away_attacks = int((away_ovr/10) + randint(-3,5))
+    away_attacks = int((away_ovr/15) + randint(-1,2))
 
     if away_attacks < 1:
       away_attacks = 1
 
     for attack in range(away_attacks):
-      chance = away_ovr/6
+      chance = 20 + ((away_ovr-home_ovr)*2)
+      
+      if chance < 5:
+        chance = 5
+      if chance > 85:
+        chance = 85
+
       roll = randint(1,100)
+
       if roll <=chance:
         self.away_goals +=1
         
