@@ -9,3 +9,18 @@ class Player:
     
   def increase_overall(self, num):
     self.overall += num
+
+  def to_dict(self):
+    return {
+      'name': self.name,
+      'age': self.age,
+      'overall': self.overall
+    }
+  
+  @classmethod
+  def from_dict(cls, data):
+    return cls(
+      data['name'],
+      data['age'],
+      data['overall']
+    )

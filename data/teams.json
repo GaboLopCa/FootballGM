@@ -1,0 +1,242 @@
+{
+    "Portugal": {
+        "name": "Portugal",
+        "players": [
+            {
+                "name": "Diogo Costa",
+                "age": 26,
+                "overall": 87
+            },
+            {
+                "name": "Joao Cancelo",
+                "age": 31,
+                "overall": 86
+            },
+            {
+                "name": "Ruben Dias",
+                "age": 29,
+                "overall": 89
+            },
+            {
+                "name": "Antonio Silva",
+                "age": 22,
+                "overall": 83
+            },
+            {
+                "name": "Nuno Mendes",
+                "age": 24,
+                "overall": 86
+            },
+            {
+                "name": "Vitinha",
+                "age": 26,
+                "overall": 87
+            },
+            {
+                "name": "Joao Neves",
+                "age": 21,
+                "overall": 85
+            },
+            {
+                "name": "Bruno Fernandes",
+                "age": 31,
+                "overall": 89
+            },
+            {
+                "name": "Rafael Leao",
+                "age": 27,
+                "overall": 87
+            },
+            {
+                "name": "Bernardo Silva",
+                "age": 32,
+                "overall": 89
+            },
+            {
+                "name": "Cristiano Ronaldo",
+                "age": 41,
+                "overall": 85
+            }
+        ]
+    },
+    "Colombia": {
+        "name": "Colombia",
+        "players": [
+            {
+                "name": "Camilo Vargas",
+                "age": 37,
+                "overall": 82
+            },
+            {
+                "name": "Daniel Munoz",
+                "age": 30,
+                "overall": 84
+            },
+            {
+                "name": "Davinson Sanchez",
+                "age": 30,
+                "overall": 81
+            },
+            {
+                "name": "Carlos Cuesta",
+                "age": 27,
+                "overall": 79
+            },
+            {
+                "name": "Deiver Machado",
+                "age": 32,
+                "overall": 78
+            },
+            {
+                "name": "Jefferson Lerma",
+                "age": 32,
+                "overall": 82
+            },
+            {
+                "name": "Richard Rios",
+                "age": 26,
+                "overall": 81
+            },
+            {
+                "name": "James Rodriguez",
+                "age": 35,
+                "overall": 84
+            },
+            {
+                "name": "Luis Diaz",
+                "age": 29,
+                "overall": 88
+            },
+            {
+                "name": "Jhon Arias",
+                "age": 29,
+                "overall": 82
+            },
+            {
+                "name": "Jhon Duran",
+                "age": 23,
+                "overall": 84
+            }
+        ]
+    },
+    "Uzbekistan": {
+        "name": "Uzbekistan",
+        "players": [
+            {
+                "name": "Utkir Yusupov",
+                "age": 34,
+                "overall": 74
+            },
+            {
+                "name": "Khojiakbar Alijonov",
+                "age": 29,
+                "overall": 74
+            },
+            {
+                "name": "Rustam Ashurmatov",
+                "age": 29,
+                "overall": 73
+            },
+            {
+                "name": "Abdukodir Khusanov",
+                "age": 22,
+                "overall": 80
+            },
+            {
+                "name": "Zafarmurod Abdirakhmatov",
+                "age": 25,
+                "overall": 72
+            },
+            {
+                "name": "Otabek Shukurov",
+                "age": 30,
+                "overall": 74
+            },
+            {
+                "name": "Odiljon Hamrobekov",
+                "age": 29,
+                "overall": 73
+            },
+            {
+                "name": "Jaloliddin Masharipov",
+                "age": 33,
+                "overall": 76
+            },
+            {
+                "name": "Abbosbek Fayzullaev",
+                "age": 23,
+                "overall": 79
+            },
+            {
+                "name": "Oston Urunov",
+                "age": 25,
+                "overall": 73
+            },
+            {
+                "name": "Eldor Shomurodov",
+                "age": 31,
+                "overall": 77
+            }
+        ]
+    },
+    "RD Congo": {
+        "name": "RD Congo",
+        "players": [
+            {
+                "name": "Dimitry Bertaud",
+                "age": 27,
+                "overall": 72
+            },
+            {
+                "name": "Gedeon Kalulu",
+                "age": 29,
+                "overall": 73
+            },
+            {
+                "name": "Chancel Mbemba",
+                "age": 32,
+                "overall": 79
+            },
+            {
+                "name": "Dylan Batubinsika",
+                "age": 29,
+                "overall": 72
+            },
+            {
+                "name": "Arthur Masuaku",
+                "age": 33,
+                "overall": 74
+            },
+            {
+                "name": "Samuel Moutoussamy",
+                "age": 29,
+                "overall": 73
+            },
+            {
+                "name": "Edo Kayembe",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Gael Kakuta",
+                "age": 35,
+                "overall": 75
+            },
+            {
+                "name": "Yoane Wissa",
+                "age": 30,
+                "overall": 82
+            },
+            {
+                "name": "Meschack Elia",
+                "age": 29,
+                "overall": 76
+            },
+            {
+                "name": "Cedric Bakambu",
+                "age": 35,
+                "overall": 77
+            }
+        ]
+    }
+}

@@ -27,3 +27,17 @@ class Team:
       for player in self.players_list:
         aggregate += player.overall
       return (aggregate/(len(self.players_list)))
+    
+  def to_dict(self):
+    return {
+      'name': self.name,
+      'players': [player.to_dict() for player in self.players_list]
+    }
+  
+  @classmethod
+  def from_dict(cls, data):
+
+    team = cls(data['name'])
+    for player_data in data['players']:
+      team.add_player(Player.from_dict(player_data))
+    return team
