@@ -1,241 +1,961 @@
 {
-    "Portugal": {
-        "name": "Portugal",
+    "Colo-Colo": {
+        "name": "Colo-Colo",
         "players": [
             {
-                "name": "Diogo Costa",
-                "age": 26,
-                "overall": 87
+                "name": "Fernando de Paul",
+                "age": 35,
+                "overall": 77
             },
             {
-                "name": "Joao Cancelo",
-                "age": 31,
-                "overall": 86
-            },
-            {
-                "name": "Ruben Dias",
-                "age": 29,
-                "overall": 89
-            },
-            {
-                "name": "Antonio Silva",
-                "age": 22,
-                "overall": 83
-            },
-            {
-                "name": "Nuno Mendes",
+                "name": "Jeyson Rojas",
                 "age": 24,
-                "overall": 86
+                "overall": 74
             },
             {
-                "name": "Vitinha",
-                "age": 26,
-                "overall": 87
+                "name": "Jonathan Villagra",
+                "age": 25,
+                "overall": 76
             },
             {
-                "name": "Joao Neves",
-                "age": 21,
-                "overall": 85
+                "name": "Joaquin Sosa",
+                "age": 24,
+                "overall": 76
             },
             {
-                "name": "Bruno Fernandes",
+                "name": "Erick Wiemberg",
                 "age": 31,
-                "overall": 89
+                "overall": 76
             },
             {
-                "name": "Rafael Leao",
+                "name": "Victor Mendez",
+                "age": 26,
+                "overall": 78
+            },
+            {
+                "name": "Tomas Alarcon",
                 "age": 27,
-                "overall": 87
+                "overall": 77
             },
             {
-                "name": "Bernardo Silva",
-                "age": 32,
-                "overall": 89
-            },
-            {
-                "name": "Cristiano Ronaldo",
-                "age": 41,
-                "overall": 85
-            }
-        ]
-    },
-    "Colombia": {
-        "name": "Colombia",
-        "players": [
-            {
-                "name": "Camilo Vargas",
-                "age": 37,
-                "overall": 82
-            },
-            {
-                "name": "Daniel Munoz",
-                "age": 30,
-                "overall": 84
-            },
-            {
-                "name": "Davinson Sanchez",
-                "age": 30,
+                "name": "Arturo Vidal",
+                "age": 39,
                 "overall": 81
             },
             {
-                "name": "Carlos Cuesta",
-                "age": 27,
-                "overall": 79
+                "name": "Claudio Aquino",
+                "age": 34,
+                "overall": 78
             },
             {
-                "name": "Deiver Machado",
+                "name": "Maximiliano Romero",
+                "age": 27,
+                "overall": 77
+            },
+            {
+                "name": "Javier Correa",
+                "age": 33,
+                "overall": 78
+            }
+        ]
+    },
+    "Universidad de Chile": {
+        "name": "Universidad de Chile",
+        "players": [
+            {
+                "name": "Gabriel Castellon",
                 "age": 32,
                 "overall": 78
             },
             {
-                "name": "Jefferson Lerma",
-                "age": 32,
-                "overall": 82
-            },
-            {
-                "name": "Richard Rios",
-                "age": 26,
-                "overall": 81
-            },
-            {
-                "name": "James Rodriguez",
-                "age": 35,
-                "overall": 84
-            },
-            {
-                "name": "Luis Diaz",
-                "age": 29,
-                "overall": 88
-            },
-            {
-                "name": "Jhon Arias",
-                "age": 29,
-                "overall": 82
-            },
-            {
-                "name": "Jhon Duran",
-                "age": 23,
-                "overall": 84
-            }
-        ]
-    },
-    "Uzbekistan": {
-        "name": "Uzbekistan",
-        "players": [
-            {
-                "name": "Utkir Yusupov",
-                "age": 34,
-                "overall": 74
-            },
-            {
-                "name": "Khojiakbar Alijonov",
-                "age": 29,
-                "overall": 74
-            },
-            {
-                "name": "Rustam Ashurmatov",
-                "age": 29,
-                "overall": 73
-            },
-            {
-                "name": "Abdukodir Khusanov",
-                "age": 22,
-                "overall": 80
-            },
-            {
-                "name": "Zafarmurod Abdirakhmatov",
-                "age": 25,
-                "overall": 72
-            },
-            {
-                "name": "Otabek Shukurov",
+                "name": "Fabian Hormazabal",
                 "age": 30,
-                "overall": 74
+                "overall": 77
             },
             {
-                "name": "Odiljon Hamrobekov",
-                "age": 29,
-                "overall": 73
+                "name": "Franco Calderon",
+                "age": 28,
+                "overall": 77
             },
             {
-                "name": "Jaloliddin Masharipov",
-                "age": 33,
+                "name": "Matias Zaldivia",
+                "age": 35,
+                "overall": 77
+            },
+            {
+                "name": "Marcelo Morales",
+                "age": 23,
+                "overall": 78
+            },
+            {
+                "name": "Marcelo Diaz",
+                "age": 39,
                 "overall": 76
             },
             {
-                "name": "Abbosbek Fayzullaev",
-                "age": 23,
+                "name": "Charles Aranguiz",
+                "age": 37,
                 "overall": 79
             },
             {
-                "name": "Oston Urunov",
-                "age": 25,
-                "overall": 73
+                "name": "Lucas Romero",
+                "age": 23,
+                "overall": 75
             },
             {
-                "name": "Eldor Shomurodov",
-                "age": 31,
+                "name": "Javier Altamirano",
+                "age": 26,
+                "overall": 78
+            },
+            {
+                "name": "Eduardo Vargas",
+                "age": 36,
+                "overall": 78
+            },
+            {
+                "name": "Maximiliano Guerrero",
+                "age": 26,
                 "overall": 77
             }
         ]
     },
-    "RD Congo": {
-        "name": "RD Congo",
+    "Universidad Catolica": {
+        "name": "Universidad Catolica",
         "players": [
             {
-                "name": "Dimitry Bertaud",
-                "age": 27,
-                "overall": 72
+                "name": "Vicente Bernedo",
+                "age": 25,
+                "overall": 74
             },
             {
-                "name": "Gedeon Kalulu",
-                "age": 29,
-                "overall": 73
+                "name": "Bernardo Cerezo",
+                "age": 30,
+                "overall": 75
             },
             {
-                "name": "Chancel Mbemba",
+                "name": "Branco Ampuero",
                 "age": 32,
-                "overall": 79
+                "overall": 76
             },
             {
-                "name": "Dylan Batubinsika",
+                "name": "Daniel Gonzalez",
+                "age": 23,
+                "overall": 75
+            },
+            {
+                "name": "Cristian Cuevas",
+                "age": 31,
+                "overall": 75
+            },
+            {
+                "name": "Gary Medel",
+                "age": 38,
+                "overall": 77
+            },
+            {
+                "name": "Jhojan Valencia",
                 "age": 29,
-                "overall": 72
+                "overall": 75
             },
             {
-                "name": "Arthur Masuaku",
-                "age": 33,
-                "overall": 74
-            },
-            {
-                "name": "Samuel Moutoussamy",
-                "age": 29,
-                "overall": 73
-            },
-            {
-                "name": "Edo Kayembe",
+                "name": "Matias Palavecino",
                 "age": 28,
+                "overall": 76
+            },
+            {
+                "name": "Clemente Montes",
+                "age": 25,
+                "overall": 75
+            },
+            {
+                "name": "Justo Giani",
+                "age": 27,
                 "overall": 74
             },
             {
-                "name": "Gael Kakuta",
+                "name": "Fernando Zampedri",
+                "age": 38,
+                "overall": 81
+            }
+        ]
+    },
+    "Palestino": {
+        "name": "Palestino",
+        "players": [
+            {
+                "name": "Cesar Rigamonti",
+                "age": 38,
+                "overall": 76
+            },
+            {
+                "name": "Benjamin Rojas",
+                "age": 25,
+                "overall": 74
+            },
+            {
+                "name": "Cristian Suarez",
+                "age": 39,
+                "overall": 74
+            },
+            {
+                "name": "Ivan Roman",
+                "age": 19,
+                "overall": 75
+            },
+            {
+                "name": "Dilan Zu\u00f1iga",
+                "age": 30,
+                "overall": 74
+            },
+            {
+                "name": "Ariel Martinez",
+                "age": 32,
+                "overall": 74
+            },
+            {
+                "name": "Misael Davila",
                 "age": 35,
                 "overall": 75
             },
             {
-                "name": "Yoane Wissa",
-                "age": 30,
-                "overall": 82
+                "name": "Joe Abrigo",
+                "age": 31,
+                "overall": 75
             },
             {
-                "name": "Meschack Elia",
+                "name": "Bryan Carrasco",
+                "age": 35,
+                "overall": 75
+            },
+            {
+                "name": "Junior Marabel",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Gonzalo Sosa",
+                "age": 37,
+                "overall": 75
+            }
+        ]
+    },
+    "Coquimbo Unido": {
+        "name": "Coquimbo Unido",
+        "players": [
+            {
+                "name": "Diego Sanchez",
+                "age": 39,
+                "overall": 75
+            },
+            {
+                "name": "Dylan Escobar",
+                "age": 25,
+                "overall": 74
+            },
+            {
+                "name": "Bruno Cabrera",
+                "age": 29,
+                "overall": 74
+            },
+            {
+                "name": "Manuel Fernandez",
+                "age": 37,
+                "overall": 73
+            },
+            {
+                "name": "Sebastian Cabrera",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Alejandro Camargo",
+                "age": 37,
+                "overall": 75
+            },
+            {
+                "name": "Dylan Glaby",
                 "age": 29,
                 "overall": 76
             },
             {
-                "name": "Cedric Bakambu",
+                "name": "Juan Manuel Vazquez",
+                "age": 31,
+                "overall": 74
+            },
+            {
+                "name": "Cristian Zavala",
+                "age": 26,
+                "overall": 76
+            },
+            {
+                "name": "Andres Chavez",
                 "age": 35,
+                "overall": 74
+            },
+            {
+                "name": "Jonatan Bauman",
+                "age": 35,
+                "overall": 74
+            }
+        ]
+    },
+    "Everton": {
+        "name": "Everton",
+        "players": [
+            {
+                "name": "Ignacio Gonzalez",
+                "age": 36,
+                "overall": 75
+            },
+            {
+                "name": "Felipe Campos",
+                "age": 32,
+                "overall": 74
+            },
+            {
+                "name": "Diego Oyarzun",
+                "age": 33,
+                "overall": 74
+            },
+            {
+                "name": "Eduardo Bauermann",
+                "age": 30,
+                "overall": 76
+            },
+            {
+                "name": "Alex Ibacache",
+                "age": 27,
+                "overall": 75
+            },
+            {
+                "name": "Alvaro Madrid",
+                "age": 31,
+                "overall": 76
+            },
+            {
+                "name": "Benjamin Berrios",
+                "age": 28,
+                "overall": 75
+            },
+            {
+                "name": "Federico Martinez",
+                "age": 30,
+                "overall": 75
+            },
+            {
+                "name": "Rodrigo Contreras",
+                "age": 30,
                 "overall": 77
+            },
+            {
+                "name": "Kevin Mendez",
+                "age": 30,
+                "overall": 74
+            },
+            {
+                "name": "Lautaro Pastran",
+                "age": 24,
+                "overall": 75
+            }
+        ]
+    },
+    "Audax Italiano": {
+        "name": "Audax Italiano",
+        "players": [
+            {
+                "name": "Tomas Ahumada",
+                "age": 24,
+                "overall": 74
+            },
+            {
+                "name": "Nicolas Fernandez",
+                "age": 27,
+                "overall": 74
+            },
+            {
+                "name": "German Guiffrey",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Guillermo Ortiz",
+                "age": 33,
+                "overall": 74
+            },
+            {
+                "name": "Esteban Matus",
+                "age": 24,
+                "overall": 73
+            },
+            {
+                "name": "Marco Collao",
+                "age": 28,
+                "overall": 73
+            },
+            {
+                "name": "Emanuel Cecchini",
+                "age": 29,
+                "overall": 74
+            },
+            {
+                "name": "Gonzalo Rios",
+                "age": 34,
+                "overall": 75
+            },
+            {
+                "name": "Alessandro Riep",
+                "age": 23,
+                "overall": 72
+            },
+            {
+                "name": "Ignacio Jeraldino",
+                "age": 30,
+                "overall": 75
+            },
+            {
+                "name": "Lautaro Palacios",
+                "age": 31,
+                "overall": 74
+            }
+        ]
+    },
+    "OHiggins": {
+        "name": "OHiggins",
+        "players": [
+            {
+                "name": "Nicolas Peranic",
+                "age": 41,
+                "overall": 73
+            },
+            {
+                "name": "Moises Gonzalez",
+                "age": 26,
+                "overall": 73
+            },
+            {
+                "name": "Leonel Mosevich",
+                "age": 29,
+                "overall": 74
+            },
+            {
+                "name": "Juan Fuentes",
+                "age": 31,
+                "overall": 74
+            },
+            {
+                "name": "Vicente Fernandez",
+                "age": 27,
+                "overall": 73
+            },
+            {
+                "name": "Camilo Moya",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Yerko Leiva",
+                "age": 27,
+                "overall": 74
+            },
+            {
+                "name": "Martin Sarrafiore",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Joaquin Tapia",
+                "age": 22,
+                "overall": 72
+            },
+            {
+                "name": "Esteban Moreira",
+                "age": 24,
+                "overall": 73
+            },
+            {
+                "name": "Arnaldo Castillo",
+                "age": 28,
+                "overall": 74
+            }
+        ]
+    },
+    "Cobresal": {
+        "name": "Cobresal",
+        "players": [
+            {
+                "name": "Leandro Requena",
+                "age": 38,
+                "overall": 74
+            },
+            {
+                "name": "Guillermo Pacheco",
+                "age": 36,
+                "overall": 74
+            },
+            {
+                "name": "Franco Bechtholdt",
+                "age": 32,
+                "overall": 74
+            },
+            {
+                "name": "Francisco Alarcon",
+                "age": 36,
+                "overall": 73
+            },
+            {
+                "name": "Marcelo Jorquera",
+                "age": 37,
+                "overall": 73
+            },
+            {
+                "name": "Diego Cespedes",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Christopher Mesias",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Leonardo Valencia",
+                "age": 35,
+                "overall": 76
+            },
+            {
+                "name": "Franco Garcia",
+                "age": 28,
+                "overall": 74
+            },
+            {
+                "name": "Cesar Munder",
+                "age": 26,
+                "overall": 75
+            },
+            {
+                "name": "Diego Coelho",
+                "age": 31,
+                "overall": 75
+            }
+        ]
+    },
+    "Huachipato": {
+        "name": "Huachipato",
+        "players": [
+            {
+                "name": "Rodrigo Odriozola",
+                "age": 37,
+                "overall": 74
+            },
+            {
+                "name": "Maximiliano Gutierrez",
+                "age": 23,
+                "overall": 73
+            },
+            {
+                "name": "Claudio Torres",
+                "age": 23,
+                "overall": 72
+            },
+            {
+                "name": "Renzo Malanca",
+                "age": 23,
+                "overall": 74
+            },
+            {
+                "name": "Rafael Caroca",
+                "age": 36,
+                "overall": 74
+            },
+            {
+                "name": "Claudio Sepulveda",
+                "age": 33,
+                "overall": 75
+            },
+            {
+                "name": "Lucas Velasquez",
+                "age": 22,
+                "overall": 71
+            },
+            {
+                "name": "Santiago Silva",
+                "age": 21,
+                "overall": 73
+            },
+            {
+                "name": "Ezequiel Ca\u00f1ete",
+                "age": 27,
+                "overall": 75
+            },
+            {
+                "name": "Maicol Leon",
+                "age": 23,
+                "overall": 72
+            },
+            {
+                "name": "Lionel Altamirano",
+                "age": 33,
+                "overall": 76
+            }
+        ]
+    },
+    "Nublense": {
+        "name": "Nublense",
+        "players": [
+            {
+                "name": "Nicola Perez",
+                "age": 36,
+                "overall": 75
+            },
+            {
+                "name": "Osvaldo Bosso",
+                "age": 32,
+                "overall": 74
+            },
+            {
+                "name": "Carlos Labrin",
+                "age": 35,
+                "overall": 73
+            },
+            {
+                "name": "Jovany Campusano",
+                "age": 33,
+                "overall": 74
+            },
+            {
+                "name": "Christopher Medina",
+                "age": 25,
+                "overall": 73
+            },
+            {
+                "name": "Lorenzo Reyes",
+                "age": 34,
+                "overall": 75
+            },
+            {
+                "name": "Ivan Rozas",
+                "age": 27,
+                "overall": 73
+            },
+            {
+                "name": "Gabriel Graciani",
+                "age": 33,
+                "overall": 75
+            },
+            {
+                "name": "Bayron Oyarzo",
+                "age": 31,
+                "overall": 74
+            },
+            {
+                "name": "Patricio Rubio",
+                "age": 37,
+                "overall": 75
+            },
+            {
+                "name": "Ismael Sosa",
+                "age": 39,
+                "overall": 74
+            }
+        ]
+    },
+    "Deportes La Serena": {
+        "name": "Deportes La Serena",
+        "players": [
+            {
+                "name": "Eryin Sanhueza",
+                "age": 30,
+                "overall": 72
+            },
+            {
+                "name": "Enzo Ferrario",
+                "age": 26,
+                "overall": 72
+            },
+            {
+                "name": "Lucas Alarcon",
+                "age": 26,
+                "overall": 73
+            },
+            {
+                "name": "Raul Osorio",
+                "age": 30,
+                "overall": 72
+            },
+            {
+                "name": "Diego Sanhueza",
+                "age": 24,
+                "overall": 71
+            },
+            {
+                "name": "Sebastian Diaz",
+                "age": 29,
+                "overall": 72
+            },
+            {
+                "name": "Sebasti\u00e1n Gallegos",
+                "age": 34,
+                "overall": 73
+            },
+            {
+                "name": "Ethan Espinoza",
+                "age": 25,
+                "overall": 72
+            },
+            {
+                "name": "Juan Sanchez Sotelo",
+                "age": 38,
+                "overall": 73
+            },
+            {
+                "name": "Alvaro Delgado",
+                "age": 31,
+                "overall": 71
+            },
+            {
+                "name": "Carlos Lobos",
+                "age": 29,
+                "overall": 72
+            }
+        ]
+    },
+    "Deportes Limache": {
+        "name": "Deportes Limache",
+        "players": [
+            {
+                "name": "Milton Alvarez",
+                "age": 36,
+                "overall": 73
+            },
+            {
+                "name": "Rodrigo Moreira",
+                "age": 29,
+                "overall": 72
+            },
+            {
+                "name": "Gonzalo Paz",
+                "age": 33,
+                "overall": 72
+            },
+            {
+                "name": "Francisco Silva",
+                "age": 32,
+                "overall": 71
+            },
+            {
+                "name": "Felipe Fritz",
+                "age": 28,
+                "overall": 72
+            },
+            {
+                "name": "Alvaro Cesped",
+                "age": 34,
+                "overall": 71
+            },
+            {
+                "name": "Luis Cabrera",
+                "age": 32,
+                "overall": 71
+            },
+            {
+                "name": "Facundo Juarez",
+                "age": 32,
+                "overall": 72
+            },
+            {
+                "name": "Daniel Castro",
+                "age": 32,
+                "overall": 73
+            },
+            {
+                "name": "Nelson Da Silva",
+                "age": 30,
+                "overall": 72
+            },
+            {
+                "name": "Brenno",
+                "age": 26,
+                "overall": 71
+            }
+        ]
+    },
+    "Union La Calera": {
+        "name": "Union La Calera",
+        "players": [
+            {
+                "name": "Matias Iba\u00f1ez",
+                "age": 39,
+                "overall": 73
+            },
+            {
+                "name": "Enzo Ferrario",
+                "age": 26,
+                "overall": 72
+            },
+            {
+                "name": "Ezequiel Parnisari",
+                "age": 36,
+                "overall": 73
+            },
+            {
+                "name": "Nahuel Brunet",
+                "age": 25,
+                "overall": 72
+            },
+            {
+                "name": "Diego Ulloa",
+                "age": 23,
+                "overall": 72
+            },
+            {
+                "name": "Esteban Valencia",
+                "age": 26,
+                "overall": 72
+            },
+            {
+                "name": "Matias Cavalleri",
+                "age": 28,
+                "overall": 73
+            },
+            {
+                "name": "Pablo Parra",
+                "age": 31,
+                "overall": 74
+            },
+            {
+                "name": "Walter Bou",
+                "age": 32,
+                "overall": 75
+            },
+            {
+                "name": "Franco Soldano",
+                "age": 31,
+                "overall": 73
+            },
+            {
+                "name": "Emmanuel Gigliotti",
+                "age": 39,
+                "overall": 73
+            }
+        ]
+    },
+    "UDEC": {
+        "name": "UDEC",
+        "players": [
+            {
+                "name": "Diego Garcia",
+                "age": 26,
+                "overall": 72
+            },
+            {
+                "name": "Javier Saldias",
+                "age": 24,
+                "overall": 71
+            },
+            {
+                "name": "Henry Sanhueza",
+                "age": 30,
+                "overall": 72
+            },
+            {
+                "name": "Esteban Flores",
+                "age": 33,
+                "overall": 70
+            },
+            {
+                "name": "Camilo Rodriguez",
+                "age": 31,
+                "overall": 71
+            },
+            {
+                "name": "Kevin Medel",
+                "age": 30,
+                "overall": 73
+            },
+            {
+                "name": "Renato Cordero",
+                "age": 23,
+                "overall": 73
+            },
+            {
+                "name": "Brahian Aleman",
+                "age": 36,
+                "overall": 74
+            },
+            {
+                "name": "Reiner Castro",
+                "age": 32,
+                "overall": 73
+            },
+            {
+                "name": "Matias Donoso",
+                "age": 39,
+                "overall": 72
+            },
+            {
+                "name": "Jeison Fuentealba",
+                "age": 23,
+                "overall": 72
+            }
+        ]
+    },
+    "Deportes Concepcion": {
+        "name": "Deportes Concepcion",
+        "players": [
+            {
+                "name": "Joaquin Mu\u00f1oz",
+                "age": 35,
+                "overall": 72
+            },
+            {
+                "name": "Lautaro Rigazzi",
+                "age": 28,
+                "overall": 71
+            },
+            {
+                "name": "Sebastian Silva",
+                "age": 34,
+                "overall": 71
+            },
+            {
+                "name": "Carlos Santiba\u00f1ez",
+                "age": 25,
+                "overall": 70
+            },
+            {
+                "name": "Felipe Ya\u00f1ez",
+                "age": 21,
+                "overall": 71
+            },
+            {
+                "name": "Fabrizio Manzo",
+                "age": 23,
+                "overall": 71
+            },
+            {
+                "name": "Mauro Lopes",
+                "age": 28,
+                "overall": 72
+            },
+            {
+                "name": "Benjamin Rivera",
+                "age": 27,
+                "overall": 71
+            },
+            {
+                "name": "Ignacio Mesias",
+                "age": 25,
+                "overall": 73
+            },
+            {
+                "name": "Carlos Escobar",
+                "age": 36,
+                "overall": 72
+            },
+            {
+                "name": "Gabriel Vargas",
+                "age": 42,
+                "overall": 70
             }
         ]
     }
