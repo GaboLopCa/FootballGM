@@ -39,10 +39,6 @@ print("\n========== CAMPEONATO FINALIZADO ==========\n")
 liga_chilena.show_standings()
 
 # Campeón
-campeon = sorted(
-    liga_chilena.standings.items(),
-    key=lambda item: item[1],
-    reverse=True
-)[0][0]
+campeon = liga_chilena.get_champion()
 
 print(f"\n🏆 CAMPEÓN: {campeon.name}")

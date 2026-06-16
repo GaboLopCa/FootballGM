@@ -15,7 +15,18 @@ class League:
     def add_team(self, team):
         if team not in self.teams_list:
             self.teams_list.append(team)
-            self.standings[team] = 0
+           
+            self.standings[team] = {
+                "pts": 0,
+                "pj": 0,
+                "g": 0,
+                "e": 0,
+                "p": 0,
+                "gf": 0,
+                "gc": 0,
+                "dg": 0
+            }
+
         else:
             return False
     
@@ -45,24 +56,90 @@ class League:
 
             print(match)
 
+            # Partidos jugados
+            self.standings[match.home_team]["pj"] += 1
+            self.standings[match.away_team]["pj"] += 1
+
+            # Goles
+            self.standings[match.home_team]["gf"] += match.home_goals
+            self.standings[match.home_team]["gc"] += match.away_goals
+
+            self.standings[match.away_team]["gf"] += match.away_goals
+            self.standings[match.away_team]["gc"] += match.home_goals
+
             if match.home_goals > match.away_goals:
-                self.standings[match.home_team] += 3
+
+                self.standings[match.home_team]["pts"] += 3
+
+                self.standings[match.home_team]["g"] += 1
+                self.standings[match.away_team]["p"] += 1
 
             elif match.home_goals < match.away_goals:
-                self.standings[match.away_team] += 3
+
+                self.standings[match.away_team]["pts"] += 3
+
+                self.standings[match.away_team]["g"] += 1
+                self.standings[match.home_team]["p"] += 1
 
             else:
-                self.standings[match.home_team] += 1
-                self.standings[match.away_team] += 1
+
+                self.standings[match.home_team]["pts"] += 1
+                self.standings[match.away_team]["pts"] += 1
+
+                self.standings[match.home_team]["e"] += 1
+                self.standings[match.away_team]["e"] += 1
+
+            # Diferencia de gol
+            self.standings[match.home_team]["dg"] = (
+                self.standings[match.home_team]["gf"]
+                - self.standings[match.home_team]["gc"]
+            )
+
+            self.standings[match.away_team]["dg"] = (
+                self.standings[match.away_team]["gf"]
+                - self.standings[match.away_team]["gc"]
+            )
 
         self.current_round += 1
         
     def show_standings(self):
-      sorted_list = sorted(self.standings.items(), key=lambda item: item[1],reverse=True)
-      i=1
-      for team,points in sorted_list:
-        print(f"{i}. {team.name} | Points: {points}")
-        i+=1
+
+        # item[0] = equipo
+        # item[1] = estadísticas del equipo
+        sorted_list = sorted(
+            self.standings.items(),
+
+            # Ordenar primero por puntos
+            key=lambda item: (
+                item[1]["pts"],
+                item[1]["dg"],
+                item[1]["gf"]              
+            ),
+            # De mayor a menor
+            reverse=True
+        )
+
+        print("\nTABLA DE POSICIONES\n")
+
+        i = 1
+
+        # team = objeto Team
+        # stats = diccionario con pts, pj, gf, etc.
+        for team, stats in sorted_list:
+
+            print(
+                f"{i}. {team.name} | "
+                f"PTS: {stats['pts']} | "
+                f"PJ: {stats['pj']} | "
+                f"G: {stats['g']} | "
+                f"E: {stats['e']} | "
+                f"P: {stats['p']} | "
+                f"GF: {stats['gf']} | "
+                f"GC: {stats['gc']} | "
+                f"DG: {stats['dg']}"
+            )
+
+            i += 1
 
     def generate_fixture(self, format):
 
@@ -129,3 +206,17 @@ class League:
                     teams.insert(1, teams.pop())
 
                 self.fixtures = first_leg + second_leg
+
+    def get_champion(self):
+
+        sorted_list = sorted(
+            self.standings.items(),
+            key=lambda item: (
+                item[1]["pts"],
+                item[1]["dg"],
+                item[1]["gf"]
+            ),
+            reverse=True
+        )
+
+        return sorted_list[0][0]
