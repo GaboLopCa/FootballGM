@@ -1,0 +1,2018 @@
+{
+    "Colo-Colo": {
+        "name": "Colo-Colo",
+        "players": [
+            {
+                "name": "Fernando de Paul",
+                "age": 35,
+                "overall": 77,
+                "attack_rating": 85,
+                "defense_rating": 15,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Jeyson Rojas",
+                "age": 24,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Jonathan Villagra",
+                "age": 25,
+                "overall": 76,
+                "attack_rating": 84,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Joaquin Sosa",
+                "age": 24,
+                "overall": 76,
+                "attack_rating": 82,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Erick Wiemberg",
+                "age": 31,
+                "overall": 76,
+                "attack_rating": 76,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Victor Mendez",
+                "age": 26,
+                "overall": 78,
+                "attack_rating": 75,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Tomas Alarcon",
+                "age": 27,
+                "overall": 77,
+                "attack_rating": 82,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Arturo Vidal",
+                "age": 39,
+                "overall": 81,
+                "attack_rating": 74,
+                "defense_rating": 82,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Claudio Aquino",
+                "age": 34,
+                "overall": 78,
+                "attack_rating": 50,
+                "defense_rating": 85,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Maximiliano Romero",
+                "age": 27,
+                "overall": 77,
+                "attack_rating": 35,
+                "defense_rating": 82,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Javier Correa",
+                "age": 33,
+                "overall": 78,
+                "attack_rating": 30,
+                "defense_rating": 84,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Universidad de Chile": {
+        "name": "Universidad de Chile",
+        "players": [
+            {
+                "name": "Gabriel Castellon",
+                "age": 32,
+                "overall": 78,
+                "attack_rating": 86,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Fabian Hormazabal",
+                "age": 30,
+                "overall": 77,
+                "attack_rating": 76,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Franco Calderon",
+                "age": 28,
+                "overall": 77,
+                "attack_rating": 85,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Matias Zaldivia",
+                "age": 35,
+                "overall": 77,
+                "attack_rating": 83,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Marcelo Morales",
+                "age": 23,
+                "overall": 78,
+                "attack_rating": 74,
+                "defense_rating": 70,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Marcelo Diaz",
+                "age": 39,
+                "overall": 76,
+                "attack_rating": 78,
+                "defense_rating": 68,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Charles Aranguiz",
+                "age": 37,
+                "overall": 79,
+                "attack_rating": 76,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Lucas Romero",
+                "age": 23,
+                "overall": 75,
+                "attack_rating": 79,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Javier Altamirano",
+                "age": 26,
+                "overall": 78,
+                "attack_rating": 55,
+                "defense_rating": 79,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Eduardo Vargas",
+                "age": 36,
+                "overall": 78,
+                "attack_rating": 35,
+                "defense_rating": 84,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Maximiliano Guerrero",
+                "age": 26,
+                "overall": 77,
+                "attack_rating": 45,
+                "defense_rating": 82,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            }
+        ]
+    },
+    "Universidad Catolica": {
+        "name": "Universidad Catolica",
+        "players": [
+            {
+                "name": "Vicente Bernedo",
+                "age": 25,
+                "overall": 74,
+                "attack_rating": 82,
+                "defense_rating": 10,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Bernardo Cerezo",
+                "age": 30,
+                "overall": 75,
+                "attack_rating": 74,
+                "defense_rating": 58,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Branco Ampuero",
+                "age": 32,
+                "overall": 76,
+                "attack_rating": 82,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Daniel Gonzalez",
+                "age": 23,
+                "overall": 75,
+                "attack_rating": 80,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Cristian Cuevas",
+                "age": 31,
+                "overall": 75,
+                "attack_rating": 68,
+                "defense_rating": 68,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Gary Medel",
+                "age": 38,
+                "overall": 77,
+                "attack_rating": 84,
+                "defense_rating": 45,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Jhojan Valencia",
+                "age": 29,
+                "overall": 75,
+                "attack_rating": 80,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Matias Palavecino",
+                "age": 28,
+                "overall": 76,
+                "attack_rating": 55,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Clemente Montes",
+                "age": 25,
+                "overall": 75,
+                "attack_rating": 40,
+                "defense_rating": 81,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Justo Giani",
+                "age": 27,
+                "overall": 74,
+                "attack_rating": 42,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Fernando Zampedri",
+                "age": 38,
+                "overall": 81,
+                "attack_rating": 35,
+                "defense_rating": 86,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Palestino": {
+        "name": "Palestino",
+        "players": [
+            {
+                "name": "Cesar Rigamonti",
+                "age": 38,
+                "overall": 76,
+                "attack_rating": 82,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Benjamin Rojas",
+                "age": 25,
+                "overall": 74,
+                "attack_rating": 72,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Cristian Suarez",
+                "age": 39,
+                "overall": 74,
+                "attack_rating": 78,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Ivan Roman",
+                "age": 19,
+                "overall": 75,
+                "attack_rating": 80,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Dilan Zuñiga",
+                "age": 30,
+                "overall": 74,
+                "attack_rating": 70,
+                "defense_rating": 62,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Ariel Martinez",
+                "age": 32,
+                "overall": 74,
+                "attack_rating": 68,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Misael Davila",
+                "age": 35,
+                "overall": 75,
+                "attack_rating": 65,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Joe Abrigo",
+                "age": 31,
+                "overall": 75,
+                "attack_rating": 50,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Bryan Carrasco",
+                "age": 35,
+                "overall": 75,
+                "attack_rating": 45,
+                "defense_rating": 80,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Junior Marabel",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 35,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Gonzalo Sosa",
+                "age": 37,
+                "overall": 75,
+                "attack_rating": 38,
+                "defense_rating": 79,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Coquimbo Unido": {
+        "name": "Coquimbo Unido",
+        "players": [
+            {
+                "name": "Diego Sanchez",
+                "age": 39,
+                "overall": 75,
+                "attack_rating": 80,
+                "defense_rating": 15,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Dylan Escobar",
+                "age": 25,
+                "overall": 74,
+                "attack_rating": 70,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Bruno Cabrera",
+                "age": 29,
+                "overall": 74,
+                "attack_rating": 77,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Manuel Fernandez",
+                "age": 37,
+                "overall": 73,
+                "attack_rating": 76,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Sebastian Cabrera",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 71,
+                "defense_rating": 62,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Alejandro Camargo",
+                "age": 37,
+                "overall": 75,
+                "attack_rating": 78,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Dylan Glaby",
+                "age": 29,
+                "overall": 76,
+                "attack_rating": 79,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Juan Manuel Vazquez",
+                "age": 31,
+                "overall": 74,
+                "attack_rating": 55,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Cristian Zavala",
+                "age": 26,
+                "overall": 76,
+                "attack_rating": 42,
+                "defense_rating": 82,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Andres Chavez",
+                "age": 35,
+                "overall": 74,
+                "attack_rating": 35,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Jonatan Bauman",
+                "age": 35,
+                "overall": 74,
+                "attack_rating": 32,
+                "defense_rating": 77,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Everton": {
+        "name": "Everton",
+        "players": [
+            {
+                "name": "Ignacio Gonzalez",
+                "age": 36,
+                "overall": 75,
+                "attack_rating": 81,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Felipe Campos",
+                "age": 32,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Diego Oyarzun",
+                "age": 33,
+                "overall": 74,
+                "attack_rating": 78,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Eduardo Bauermann",
+                "age": 30,
+                "overall": 76,
+                "attack_rating": 80,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Alex Ibacache",
+                "age": 27,
+                "overall": 75,
+                "attack_rating": 72,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Alvaro Madrid",
+                "age": 31,
+                "overall": 76,
+                "attack_rating": 74,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Benjamin Berrios",
+                "age": 28,
+                "overall": 75,
+                "attack_rating": 73,
+                "defense_rating": 70,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Federico Martinez",
+                "age": 30,
+                "overall": 75,
+                "attack_rating": 45,
+                "defense_rating": 79,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Rodrigo Contreras",
+                "age": 30,
+                "overall": 77,
+                "attack_rating": 35,
+                "defense_rating": 82,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Kevin Mendez",
+                "age": 30,
+                "overall": 74,
+                "attack_rating": 48,
+                "defense_rating": 77,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Lautaro Pastran",
+                "age": 24,
+                "overall": 75,
+                "attack_rating": 40,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            }
+        ]
+    },
+    "Audax Italiano": {
+        "name": "Audax Italiano",
+        "players": [
+            {
+                "name": "Tomas Ahumada",
+                "age": 24,
+                "overall": 74,
+                "attack_rating": 80,
+                "defense_rating": 10,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Nicolas Fernandez",
+                "age": 27,
+                "overall": 74,
+                "attack_rating": 70,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "German Guiffrey",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 76,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Guillermo Ortiz",
+                "age": 33,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Esteban Matus",
+                "age": 24,
+                "overall": 73,
+                "attack_rating": 68,
+                "defense_rating": 62,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Marco Collao",
+                "age": 28,
+                "overall": 73,
+                "attack_rating": 68,
+                "defense_rating": 68,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Emanuel Cecchini",
+                "age": 29,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Gonzalo Rios",
+                "age": 34,
+                "overall": 75,
+                "attack_rating": 52,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Alessandro Riep",
+                "age": 23,
+                "overall": 72,
+                "attack_rating": 40,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Ignacio Jeraldino",
+                "age": 30,
+                "overall": 75,
+                "attack_rating": 35,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Lautaro Palacios",
+                "age": 31,
+                "overall": 74,
+                "attack_rating": 32,
+                "defense_rating": 77,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "OHiggins": {
+        "name": "OHiggins",
+        "players": [
+            {
+                "name": "Nicolas Peranic",
+                "age": 41,
+                "overall": 73,
+                "attack_rating": 79,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Moises Gonzalez",
+                "age": 26,
+                "overall": 73,
+                "attack_rating": 75,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Leonel Mosevich",
+                "age": 29,
+                "overall": 74,
+                "attack_rating": 76,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Juan Fuentes",
+                "age": 31,
+                "overall": 74,
+                "attack_rating": 76,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Vicente Fernandez",
+                "age": 27,
+                "overall": 73,
+                "attack_rating": 69,
+                "defense_rating": 62,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Camilo Moya",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 74,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Yerko Leiva",
+                "age": 27,
+                "overall": 74,
+                "attack_rating": 68,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Martin Sarrafiore",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 50,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Joaquin Tapia",
+                "age": 22,
+                "overall": 72,
+                "attack_rating": 42,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Esteban Moreira",
+                "age": 24,
+                "overall": 73,
+                "attack_rating": 35,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Arnaldo Castillo",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 38,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Cobresal": {
+        "name": "Cobresal",
+        "players": [
+            {
+                "name": "Leandro Requena",
+                "age": 38,
+                "overall": 74,
+                "attack_rating": 79,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Guillermo Pacheco",
+                "age": 36,
+                "overall": 74,
+                "attack_rating": 68,
+                "defense_rating": 66,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Franco Bechtholdt",
+                "age": 32,
+                "overall": 74,
+                "attack_rating": 76,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Francisco Alarcon",
+                "age": 36,
+                "overall": 73,
+                "attack_rating": 75,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Marcelo Jorquera",
+                "age": 37,
+                "overall": 73,
+                "attack_rating": 69,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Diego Cespedes",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 50,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Christopher Mesias",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 71,
+                "defense_rating": 70,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Leonardo Valencia",
+                "age": 35,
+                "overall": 76,
+                "attack_rating": 45,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Franco Garcia",
+                "age": 28,
+                "overall": 74,
+                "attack_rating": 40,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Cesar Munder",
+                "age": 26,
+                "overall": 75,
+                "attack_rating": 42,
+                "defense_rating": 79,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Diego Coelho",
+                "age": 31,
+                "overall": 75,
+                "attack_rating": 35,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Huachipato": {
+        "name": "Huachipato",
+        "players": [
+            {
+                "name": "Rodrigo Odriozola",
+                "age": 37,
+                "overall": 74,
+                "attack_rating": 79,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Maximiliano Gutierrez",
+                "age": 23,
+                "overall": 73,
+                "attack_rating": 68,
+                "defense_rating": 64,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Claudio Torres",
+                "age": 23,
+                "overall": 72,
+                "attack_rating": 38,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Renzo Malanca",
+                "age": 23,
+                "overall": 74,
+                "attack_rating": 76,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Rafael Caroca",
+                "age": 36,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 45,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Claudio Sepulveda",
+                "age": 33,
+                "overall": 75,
+                "attack_rating": 77,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Lucas Velasquez",
+                "age": 22,
+                "overall": 71,
+                "attack_rating": 67,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Santiago Silva",
+                "age": 21,
+                "overall": 73,
+                "attack_rating": 68,
+                "defense_rating": 70,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Ezequiel Cañete",
+                "age": 27,
+                "overall": 75,
+                "attack_rating": 55,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Maicol Leon",
+                "age": 23,
+                "overall": 72,
+                "attack_rating": 65,
+                "defense_rating": 68,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Lionel Altamirano",
+                "age": 33,
+                "overall": 76,
+                "attack_rating": 35,
+                "defense_rating": 80,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "Nublense": {
+        "name": "Nublense",
+        "players": [
+            {
+                "name": "Nicola Perez",
+                "age": 36,
+                "overall": 75,
+                "attack_rating": 80,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Osvaldo Bosso",
+                "age": 32,
+                "overall": 74,
+                "attack_rating": 75,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Carlos Labrin",
+                "age": 35,
+                "overall": 73,
+                "attack_rating": 74,
+                "defense_rating": 30,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Jovany Campusano",
+                "age": 33,
+                "overall": 74,
+                "attack_rating": 70,
+                "defense_rating": 64,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Christopher Medina",
+                "age": 25,
+                "overall": 73,
+                "attack_rating": 68,
+                "defense_rating": 62,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Lorenzo Reyes",
+                "age": 34,
+                "overall": 75,
+                "attack_rating": 76,
+                "defense_rating": 60,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Ivan Rozas",
+                "age": 27,
+                "overall": 73,
+                "attack_rating": 66,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Gabriel Graciani",
+                "age": 33,
+                "overall": 75,
+                "attack_rating": 50,
+                "defense_rating": 76,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Bayron Oyarzo",
+                "age": 31,
+                "overall": 74,
+                "attack_rating": 45,
+                "defense_rating": 78,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Patricio Rubio",
+                "age": 37,
+                "overall": 75,
+                "attack_rating": 35,
+                "defense_rating": 79,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Ismael Sosa",
+                "age": 39,
+                "overall": 74,
+                "attack_rating": 38,
+                "defense_rating": 77,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            }
+        ]
+    },
+    "Deportes La Serena": {
+        "name": "Deportes La Serena",
+        "players": [
+            {
+                "name": "Eryin Sanhueza",
+                "age": 30,
+                "overall": 72,
+                "attack_rating": 72,
+                "defense_rating": 10,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Enzo Ferrario",
+                "age": 26,
+                "overall": 72,
+                "attack_rating": 68,
+                "defense_rating": 25,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Lucas Alarcon",
+                "age": 26,
+                "overall": 73,
+                "attack_rating": 69,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Raul Osorio",
+                "age": 30,
+                "overall": 72,
+                "attack_rating": 67,
+                "defense_rating": 35,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Diego Sanhueza",
+                "age": 24,
+                "overall": 71,
+                "attack_rating": 64,
+                "defense_rating": 50,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Sebastian Diaz",
+                "age": 29,
+                "overall": 72,
+                "attack_rating": 68,
+                "defense_rating": 52,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Sebastián Gallegos",
+                "age": 34,
+                "overall": 73,
+                "attack_rating": 42,
+                "defense_rating": 70,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Ethan Espinoza",
+                "age": 25,
+                "overall": 72,
+                "attack_rating": 62,
+                "defense_rating": 66,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Juan Sanchez Sotelo",
+                "age": 38,
+                "overall": 73,
+                "attack_rating": 30,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Alvaro Delgado",
+                "age": 31,
+                "overall": 71,
+                "attack_rating": 35,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Carlos Lobos",
+                "age": 29,
+                "overall": 72,
+                "attack_rating": 60,
+                "defense_rating": 68,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            }
+        ]
+    },
+    "Deportes Limache": {
+        "name": "Deportes Limache",
+        "players": [
+            {
+                "name": "Milton Alvarez",
+                "age": 36,
+                "overall": 73,
+                "attack_rating": 73,
+                "defense_rating": 10,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Rodrigo Moreira",
+                "age": 29,
+                "overall": 72,
+                "attack_rating": 68,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Gonzalo Paz",
+                "age": 33,
+                "overall": 72,
+                "attack_rating": 67,
+                "defense_rating": 25,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Francisco Silva",
+                "age": 32,
+                "overall": 71,
+                "attack_rating": 66,
+                "defense_rating": 50,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Felipe Fritz",
+                "age": 28,
+                "overall": 72,
+                "attack_rating": 55,
+                "defense_rating": 64,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Alvaro Cesped",
+                "age": 34,
+                "overall": 71,
+                "attack_rating": 60,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Luis Cabrera",
+                "age": 32,
+                "overall": 71,
+                "attack_rating": 65,
+                "defense_rating": 52,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Facundo Juarez",
+                "age": 32,
+                "overall": 72,
+                "attack_rating": 38,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Daniel Castro",
+                "age": 32,
+                "overall": 73,
+                "attack_rating": 32,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Nelson Da Silva",
+                "age": 30,
+                "overall": 72,
+                "attack_rating": 30,
+                "defense_rating": 73,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Brenno",
+                "age": 26,
+                "overall": 71,
+                "attack_rating": 71,
+                "defense_rating": 10,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            }
+        ]
+    },
+    "Union La Calera": {
+        "name": "Union La Calera",
+        "players": [
+            {
+                "name": "Matias Ibañez",
+                "age": 39,
+                "overall": 73,
+                "attack_rating": 76,
+                "defense_rating": 12,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Enzo Ferrario",
+                "age": 26,
+                "overall": 72,
+                "attack_rating": 70,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Ezequiel Parnisari",
+                "age": 36,
+                "overall": 73,
+                "attack_rating": 72,
+                "defense_rating": 32,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Nahuel Brunet",
+                "age": 25,
+                "overall": 72,
+                "attack_rating": 71,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Diego Ulloa",
+                "age": 23,
+                "overall": 72,
+                "attack_rating": 66,
+                "defense_rating": 58,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Esteban Valencia",
+                "age": 26,
+                "overall": 72,
+                "attack_rating": 64,
+                "defense_rating": 68,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Matias Cavalleri",
+                "age": 28,
+                "overall": 73,
+                "attack_rating": 42,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Pablo Parra",
+                "age": 31,
+                "overall": 74,
+                "attack_rating": 45,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Walter Bou",
+                "age": 32,
+                "overall": 75,
+                "attack_rating": 35,
+                "defense_rating": 77,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Franco Soldano",
+                "age": 31,
+                "overall": 73,
+                "attack_rating": 38,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Emmanuel Gigliotti",
+                "age": 39,
+                "overall": 73,
+                "attack_rating": 35,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    },
+    "UDEC": {
+        "name": "UDEC",
+        "players": [
+            {
+                "name": "Diego Garcia",
+                "age": 26,
+                "overall": 72,
+                "attack_rating": 69,
+                "defense_rating": 25,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Javier Saldias",
+                "age": 24,
+                "overall": 71,
+                "attack_rating": 64,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Henry Sanhueza",
+                "age": 30,
+                "overall": 72,
+                "attack_rating": 68,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Esteban Flores",
+                "age": 33,
+                "overall": 70,
+                "attack_rating": 63,
+                "defense_rating": 50,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Camilo Rodriguez",
+                "age": 31,
+                "overall": 71,
+                "attack_rating": 65,
+                "defense_rating": 58,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Kevin Medel",
+                "age": 30,
+                "overall": 73,
+                "attack_rating": 69,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Renato Cordero",
+                "age": 23,
+                "overall": 73,
+                "attack_rating": 70,
+                "defense_rating": 58,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Brahian Aleman",
+                "age": 36,
+                "overall": 74,
+                "attack_rating": 45,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            },
+            {
+                "name": "Reiner Castro",
+                "age": 32,
+                "overall": 73,
+                "attack_rating": 38,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Matias Donoso",
+                "age": 39,
+                "overall": 72,
+                "attack_rating": 32,
+                "defense_rating": 75,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Jeison Fuentealba",
+                "age": 23,
+                "overall": 72,
+                "attack_rating": 60,
+                "defense_rating": 70,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CAM"
+            }
+        ]
+    },
+    "Deportes Concepcion": {
+        "name": "Deportes Concepcion",
+        "players": [
+            {
+                "name": "Joaquin Muñoz",
+                "age": 35,
+                "overall": 72,
+                "attack_rating": 70,
+                "defense_rating": 10,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "GK"
+            },
+            {
+                "name": "Lautaro Rigazzi",
+                "age": 28,
+                "overall": 71,
+                "attack_rating": 65,
+                "defense_rating": 25,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Sebastian Silva",
+                "age": 34,
+                "overall": 71,
+                "attack_rating": 66,
+                "defense_rating": 28,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CB"
+            },
+            {
+                "name": "Carlos Santibañez",
+                "age": 25,
+                "overall": 70,
+                "attack_rating": 62,
+                "defense_rating": 50,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Felipe Yañez",
+                "age": 21,
+                "overall": 71,
+                "attack_rating": 63,
+                "defense_rating": 55,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "FB"
+            },
+            {
+                "name": "Fabrizio Manzo",
+                "age": 23,
+                "overall": 71,
+                "attack_rating": 58,
+                "defense_rating": 65,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CM"
+            },
+            {
+                "name": "Mauro Lopes",
+                "age": 28,
+                "overall": 72,
+                "attack_rating": 35,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "WNG"
+            },
+            {
+                "name": "Benjamin Rivera",
+                "age": 27,
+                "overall": 71,
+                "attack_rating": 64,
+                "defense_rating": 52,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "CDM"
+            },
+            {
+                "name": "Ignacio Mesias",
+                "age": 25,
+                "overall": 73,
+                "attack_rating": 28,
+                "defense_rating": 74,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Carlos Escobar",
+                "age": 36,
+                "overall": 72,
+                "attack_rating": 30,
+                "defense_rating": 73,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            },
+            {
+                "name": "Gabriel Vargas",
+                "age": 42,
+                "overall": 70,
+                "attack_rating": 25,
+                "defense_rating": 72,
+                "goals": 0,
+                "assists": 0,
+                "matches_played": 0,
+                "position": "ST"
+            }
+        ]
+    }
+}

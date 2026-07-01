@@ -1,7 +1,7 @@
 from models.player import Player
 from models.team import Team
 from models.match import Match
-from random import shuffle
+import random
 
 class League:
     
@@ -121,91 +121,70 @@ class League:
 
         print("\nTABLA DE POSICIONES\n")
 
-        i = 1
+        pos_width  = max(3, len(str(len(sorted_list))))
+        name_width = max(len(team.name) for team, _ in sorted_list)
 
-        # team = objeto Team
-        # stats = diccionario con pts, pj, gf, etc.
-        for team, stats in sorted_list:
+        header = (
+            f"{'Pos':>{pos_width}}  "
+            f"{'Equipo':<{name_width}}  "
+            f"{'PTS':>3}  "
+            f"{'PJ':>3}  "
+            f"{'G':>3}  "
+            f"{'E':>3}  "
+            f"{'P':>3}  "
+            f"{'GF':>3}  "
+            f"{'GC':>3}  "
+            f"{'DG':>4}"
+        )
+        print(header)
+        print("-" * len(header))
 
+        for i, (team, stats) in enumerate(sorted_list, start=1):
             print(
-                f"{i}. {team.name} | "
-                f"PTS: {stats['pts']} | "
-                f"PJ: {stats['pj']} | "
-                f"G: {stats['g']} | "
-                f"E: {stats['e']} | "
-                f"P: {stats['p']} | "
-                f"GF: {stats['gf']} | "
-                f"GC: {stats['gc']} | "
-                f"DG: {stats['dg']}"
+                f"{i:>{pos_width}}  "
+                f"{team.name:<{name_width}}  "
+                f"{stats['pts']:>3}  "
+                f"{stats['pj']:>3}  "
+                f"{stats['g']:>3}  "
+                f"{stats['e']:>3}  "
+                f"{stats['p']:>3}  "
+                f"{stats['gf']:>3}  "
+                f"{stats['gc']:>3}  "
+                f"{stats['dg']:>4}"
             )
 
-            i += 1
-
     def generate_fixture(self, format):
+        teams = self.teams_list.copy()
+        random.shuffle(teams)
+        if len(teams) % 2 != 0:
+            teams.append(None)
+        total_rounds = len(teams) - 1
+        matches_per_round = len(teams) // 2
+        self.fixtures = []
+        if format == "1round_league":
+            for _ in range(total_rounds):
+                round_matches = []
+                for i in range(matches_per_round):
+                    team1 = teams[i]
+                    team2 = teams[-(i+1)]
+                    if team1 is not None and team2 is not None:
+                        round_matches.append((team1, team2))
+                self.fixtures.append(round_matches)
+                teams.insert(1, teams.pop())
+        elif format == "2round_league":
+            first_leg = []
+            for _ in range(total_rounds):
+                round_matches = []
+                for i in range(matches_per_round):
+                    team1 = teams[i]
+                    team2 = teams[-(i+1)]
+                    if team1 is not None and team2 is not None:
+                        round_matches.append((team1, team2))
+                first_leg.append(round_matches)
+                teams.insert(1, teams.pop())
+            second_leg = [[(b, a) for (a, b) in round_matches] for round_matches in first_leg]
+            self.fixtures = first_leg + second_leg
 
-        match format:
-
-            case "1round_league":
-
-                teams = self.teams_list.copy()
-
-                if len(teams) % 2 != 0:
-                    teams.append(None)
-
-                total_rounds = len(teams) - 1
-                matches_per_round = len(teams) // 2
-
-                for round in range(total_rounds):
-
-                    round_matches = []
-
-                    for i in range(matches_per_round):
-
-                        team1 = teams[i]
-                        team2 = teams[-(i+1)]
-
-                        if team1 is not None and team2 is not None:
-                            round_matches.append((team1, team2))
-
-                    self.fixtures.append(round_matches)
-
-                    teams.insert(1, teams.pop())
-
-
-            case "2round_league":
-
-                teams = self.teams_list.copy()
-
-                if len(teams) % 2 != 0:
-                    teams.append(None)
-
-                total_rounds = len(teams) - 1
-                matches_per_round = len(teams) // 2
-
-                first_leg = []
-                second_leg = []
-
-                for round in range(total_rounds):
-
-                    round_matches = []
-                    reverse_matches = []
-
-                    for i in range(matches_per_round):
-
-                        team1 = teams[i]
-                        team2 = teams[-(i+1)]
-
-                        if team1 is not None and team2 is not None:
-
-                            round_matches.append((team1, team2))
-                            reverse_matches.append((team2, team1))
-
-                    first_leg.append(round_matches)
-                    second_leg.append(reverse_matches)
-
-                    teams.insert(1, teams.pop())
-
-                self.fixtures = first_leg + second_leg
 
     def get_champion(self):
 
@@ -220,3 +199,26 @@ class League:
         )
 
         return sorted_list[0][0]
+    
+    def get_all_players(self):
+        
+        players = []
+
+        for team in self.teams_list:
+            players.extend(team.players_list)
+
+        return players
+    
+    def show_top_scorers(self):
+
+        players = sorted(
+            self.get_all_players(),
+            key=lambda player: player.goals,
+            reverse=True
+        )
+
+        print("\nGOLEADORES\n")
+
+        for i, player in enumerate(players[:10], start=1):
+            print(f"{i}. {player.name} - {player.goals}")
+            

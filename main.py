@@ -42,3 +42,5 @@ liga_chilena.show_standings()
 campeon = liga_chilena.get_champion()
 
 print(f"\n🏆 CAMPEÓN: {campeon.name}")
+
+liga_chilena.show_top_scorers()
